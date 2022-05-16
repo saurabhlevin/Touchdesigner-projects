@@ -1,0 +1,1 @@
+A TD fil for playing with Moire effects. Most of the interesting parameters are mapped to MIDI, but changing sphere columns+rows,  uniform scale, material and camera bg colours and composite type all have cooleffects
